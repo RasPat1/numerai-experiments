@@ -1,0 +1,9 @@
+import tensorflow as tf
+
+# load up csv
+# read in csv line by line. csv is the feed
+# Run linear regression on the data
+# y is last column of input, x is 1st 50 columns
+# minimize log loss
+# gradient descent on log loss
+
